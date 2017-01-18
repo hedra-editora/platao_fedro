@@ -1,0 +1,27 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Introdução}{7}
+\contentsline {section}{Heath, Rowe e Kastely}{9}
+\contentsline {section}{Eros e Psique}{15}
+\contentsline {section}{Recitações e partes da alma}{23}
+\contentsline {section}{A tríade de Estesícoro no \emph {Fedro}}{30}
+\contentsline {section}{Lísias e Isócrates -- dois mudos no tribunal de Platão}{36}
+\contentsline {section}{Edições e traduções}{39}
+\contentsline {section}{Edições, traduções e comentários}{40}
+\contentsline {section}{Autores antigos}{42}
+\contentsline {section}{Bibliografia Geral}{46}
+\contentsline {part}{Fedro}{55}
+\contentsline {chapter}{}{57}
+\contentsline {chapter}{Posfácio}{151}
+\contentsline {section}{Qual é o verdadeiro tema do~\emph {Fedro}?}{151}
+\contentsline {section}{Heath, Rowe e Kastely}{153}
+\contentsline {section}{Eros e Psique}{159}
+\contentsline {section}{Recitações e partes da alma}{166}
+\contentsline {section}{A tríade de Estesícoro no~\emph {Fedro}}{173}
+\contentsline {section}{Lísias e Isócrates -- dois mudos no tribunal de Platão}{178}
+\contentsline {section}{Edições e traduções}{181}
+\contentsline {section}{Bibliografia}{182}
+\contentsline {subsection}{Edições, traduções e comentários específicos dedicados ao~\emph {Fedro}:}{182}
+\contentsline {subsubsection}{Autores antigos:}{184}
+\contentsline {subsection}{Bibliografia Geral:}{188}
+\contentsfinish 
