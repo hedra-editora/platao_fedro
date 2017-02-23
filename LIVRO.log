@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2015.5.6)  18 JAN 2017 13:08
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2015.5.6)  18 JAN 2017 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1349,46 +1349,46 @@ e .
 (./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 11.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 12.
 
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 11.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    ... okay on input line 12.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Info: Redefining \dots on input line 11.
-LaTeX Info: Redefining \up on input line 11.
-LaTeX Info: Redefining \microtypecontext on input line 11.
+LaTeX Info: Redefining \dots on input line 12.
+LaTeX Info: Redefining \up on input line 12.
+LaTeX Info: Redefining \microtypecontext on input line 12.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1405,71 +1405,71 @@ Package microtype Info: Loading generic settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
-LaTeX Font Info:    Redeclaring math accent \check on input line 11.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 12.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 12.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 12.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 12.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 12.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 12.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 12.
+LaTeX Font Info:    Redeclaring math accent \check on input line 12.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 12.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 12.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 12.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 12.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 11.
+(Font)              `operators' in the math version `normal' on input line 12.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/LinuxLibertineO(0)/m/n on input lin
-e 11.
+e 12.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 11.
+(Font)              `operators' in the math version `bold' on input line 12.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/LinuxLibertineO(0)/m/n on input li
-ne 11.
+ne 12.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/LinuxLibertineO(0)/m/n --> EU1/LinuxLibertineO(0)/m
-/n on input line 11.
+/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/LinuxLibertineO(0)/m/it on input l
-ine 11.
+ine 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/LinuxLibertineO(0)/bx/n on input l
-ine 11.
+ine 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 12.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/LinuxLibertineO(0)/m/n --> EU1/LinuxLibertineO(0)/b
-x/n on input line 11.
+x/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/LinuxLibertineO(0)/bx/it on input
- line 11.
+ line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 11.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 11.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 12.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             macros/latex/contrib/pageslts/ 
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 11.
+(lastpage)             ! on input line 12.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1488,9 +1488,9 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
+(Font)              <5> on input line 12.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1532,641 +1532,254 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
-Overfull \vbox (11.5562pt too high) has occurred while \output is active []
-
-
-[7] [8]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
-
-Overfull \vbox (18.136pt too high) has occurred while \output is active []
-
-
-[9]
-Overfull \hbox (634.28304pt too wide) in paragraph at lines 107--107
-[]\EU1/LinuxLibertineO(0)/m/n/9 3. []Διαλόγου πλοκὴ ἠθικοὶ λόγοι καὶ ζητητικοί.
- ὅταν ἀναμίξῃς προσδιαλεγόμενος καὶ ζητῶν, οἱ ἠθικοὶ παρεμβληθέντες λόγοι ἀναπα
-ύουσι τὴν ψυχήν, ὅταν δ’ αὖ ἀναπαύσηται, ἐπάγεται ἡ ζήτησις, ὥσπερ ἐν ὀργάνῳ ἡ 
-τάσις καὶ ἄνεσις γίνεται.| 
- []
-
-
-Overfull \vbox (11.65733pt too high) has occurred while \output is active []
-
-
-[10] [11]
-Overfull \hbox (2.06476pt too wide) in paragraph at lines 160--170
-\EU1/LinuxLibertineO(0)/m/n/10.95 recitações haviam sido soberanas e seus \EU1/
-LinuxLibertineO(0)/m/it/10.95 intermezzos \EU1/LinuxLibertineO(0)/m/n/10.95 fun
--
- []
-
-
-Overfull \hbox (2.44072pt too wide) in paragraph at lines 171--176
-\EU1/LinuxLibertineO(0)/m/n/10.95 entendemos a distância desse segundo moviment
-o como
- []
-
-
-Overfull \hbox (1.24721pt too wide) in paragraph at lines 171--176
-\EU1/LinuxLibertineO(0)/m/n/10.95 um efeito discursivo, como uma maneira prátic
-a de apre-
- []
-
-[12]
-Overfull \hbox (6.50563pt too wide) in paragraph at lines 200--206
-\EU1/LinuxLibertineO(0)/m/n/10.95 líneo ou espécie de hino pronunciado por Sócr
-ates. Desse
- []
-
-
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
-
-
-[13]
-Overfull \hbox (3.48103pt too wide) in paragraph at lines 207--224
-\EU1/LinuxLibertineO(0)/m/n/10.95 pelo qual Sócrates porá em discussão (2) a na
-tureza desse
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Overfull \hbox (0.64859pt too wide) in paragraph at lines 264--280
+ [7]
+Overfull \hbox (0.64859pt too wide) in paragraph at lines 26--42
 \EU1/LinuxLibertineO(0)/m/n/10.95 p.148–149) a encontra nas fábulas milésias e 
 mostra tam-
  []
 
-[16]
+[8] [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [10]
+Underfull \vbox (badness 6725) has occurred while \output is active []
 
- [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
-
-Underfull \hbox (badness 4084) in paragraph at lines 448--448
-\EU1/LinuxLibertineO(0)/m/n/9 Sorel, R\EU1/LinuxLibertineO(0)/m/it/9 Les cosmog
-onies grecques\EU1/LinuxLibertineO(0)/m/n/9 , Paris: \EU1/LinuxLibertineO(0)/m/
-sc/9 puf\EU1/LinuxLibertineO(0)/m/n/9 , 1994; Barnabé,
- []
-
-
-Overfull \vbox (10.90605pt too high) has occurred while \output is active []
-
-
-[20]
-Overfull \vbox (19.26228pt too high) has occurred while \output is active []
-
-
-[21] [22]
+ [11]
+[12] [13]
 Underfull \vbox (badness 3240) has occurred while \output is active []
 
- [23]
-[24]
+ [14]
+[15]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
+ [16] [17]
+Underfull \vbox (badness 1087) has occurred while \output is active []
 
-Underfull \vbox (badness 4279) has occurred while \output is active []
-
- [25]
-[26]
-Overfull \hbox (5.3644pt too wide) in paragraph at lines 620--630
+ [18]
+Overfull \hbox (5.3644pt too wide) in paragraph at lines 400--410
 \EU1/LinuxLibertineO(0)/m/n/10.95 fio proposto, exemplifica esse impulso do \EU
 1/LinuxLibertineO(0)/m/it/10.95 thymos\EU1/LinuxLibertineO(0)/m/n/10.95 , mesmo
 
  []
 
 
-Overfull \hbox (4.84976pt too wide) in paragraph at lines 620--630
+Overfull \hbox (4.84976pt too wide) in paragraph at lines 400--410
 \EU1/LinuxLibertineO(0)/m/n/10.95 quais predominam o amor pela vitória (\EU1/Li
 nuxLibertineO(0)/m/it/10.95 niké\EU1/LinuxLibertineO(0)/m/n/10.95 ) e pela honr
 a
  []
 
-[27] [28]
-Overfull \hbox (4.58696pt too wide) in paragraph at lines 669--679
+[19] [20]
+Overfull \hbox (4.58696pt too wide) in paragraph at lines 451--461
 \EU1/LinuxLibertineO(0)/m/n/10.95 imagem do trajeto das almas divinas e humanas
 , valendo-
  []
 
 
-Overfull \hbox (4.83511pt too wide) in paragraph at lines 686--701
+Overfull \hbox (4.83511pt too wide) in paragraph at lines 468--483
 \EU1/LinuxLibertineO(0)/m/n/10.95 fortemente ligado aos impulsos mais violentos
 , enquanto
  []
 
 
-Overfull \hbox (15.0807pt too wide) in paragraph at lines 686--701
+Overfull \hbox (15.0807pt too wide) in paragraph at lines 468--483
 \EU1/LinuxLibertineO(0)/m/n/10.95 uma visão de quem é conduzido pelo entusiásti
 co (\EU1/LinuxLibertineO(0)/m/it/10.95 enthoun\EU1/LinuxLibertineO(0)/m/n/10.95
  ),
  []
 
-[29]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+[21] [22] [23
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [30]
-Overfull \hbox (2.09402pt too wide) in paragraph at lines 721--734
-\EU1/LinuxLibertineO(0)/m/n/10.95 contra Helena reabilitada no temor de Sócrate
-s pela falta
- []
-
-
-Overfull \hbox (11.8232pt too wide) in paragraph at lines 735--745
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 No testemunho \EU1/LinuxLibertineO(0)/m/sc/
-10.95 b\EU1/LinuxLibertineO(0)/m/n/10.95 22c recolhido por Davies (1991, p.145)
-
- []
-
-[31]
-Overfull \vbox (16.66225pt too high) has occurred while \output is active []
-
-
-[32]
-Overfull \hbox (7.33904pt too wide) in paragraph at lines 803--810
-\EU1/LinuxLibertineO(0)/m/n/10.95 da fixidez terrestre, classificando duas veze
-s o movimento
- []
-
-
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
-
-
-[33]
-Overfull \hbox (4.10255pt too wide) in paragraph at lines 837--845
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 A mimese, um procedimento vital da cultura 
-mnemô-
- []
-
-
-Overfull \hbox (0.34564pt too wide) in paragraph at lines 837--845
-\EU1/LinuxLibertineO(0)/m/n/10.95 construindo histórias diferentes a partir des
-se corpo tex-
- []
-
-[34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-Overfull \hbox (13.85669pt too wide) in paragraph at lines 875--887
-\EU1/LinuxLibertineO(0)/m/n/10.95 rebaixados na filosofia de Platão. Ambos, par
-a-vituperados
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-[37]
-Overfull \vbox (8.30605pt too high) has occurred while \output is active []
-
-
-[38]
-Overfull \hbox (1.68892pt too wide) in paragraph at lines 957--963
-\EU1/LinuxLibertineO(0)/m/n/10.95 por boas notas e soluções elegantes, a de Car
-los ANunes
- []
-
-
-Overfull \hbox (0.72403pt too wide) in paragraph at lines 973--984
-\EU1/LinuxLibertineO(0)/m/n/10.95 serviu muitas vezes como material de consulta
-. Em fran-
- []
-
-
-Underfull \vbox (badness 2556) has occurred while \output is active []
-
- [39]
-Overfull \hbox (1.1847pt too wide) in paragraph at lines 1003--1006
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Burnet, J. \EU1/LinuxLibertineO(0)/m/it/10.
-95 Platonis Opera \EU1/LinuxLibertineO(0)/m/n/10.95 tomus \EU1/LinuxLibertineO(
-0)/m/sc/10.95 ii\EU1/LinuxLibertineO(0)/m/n/10.95 , Oxford: Oxford Clas-
- []
-
-[40]
-Overfull \hbox (2.96097pt too wide) in paragraph at lines 1026--1030
-\EU1/LinuxLibertineO(0)/m/n/10.95 aparatu critic ornavit, Ed. Couvreur, Paris: 
-Émile Bouil-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-Overfull \hbox (3.50604pt too wide) in paragraph at lines 1059--1062
-\EU1/LinuxLibertineO(0)/m/n/10.95 commentary by W.HThompson, London: Wittaker a
-nd
- []
-
-
-Overfull \hbox (12.32329pt too wide) in paragraph at lines 1082--1085
-\EU1/LinuxLibertineO(0)/m/n/10.95 Andocides, trad. KJMaidment, Harvard Universi
-ty Press,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-Overfull \hbox (3.26756pt too wide) in paragraph at lines 1122--1125
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Euripides. \EU1/LinuxLibertineO(0)/m/it/10.
-95 Hipólito\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Miralles, C., Barcelona: B
-osch,
- []
-
-
-Overfull \hbox (2.44267pt too wide) in paragraph at lines 1135--1138
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Halicarnassus, Dionysius of. \EU1/LinuxLibe
-rtineO(0)/m/it/10.95 Critical Essays\EU1/LinuxLibertineO(0)/m/n/10.95 , vol. 1,
- trad.
- []
-
-
-Overfull \hbox (4.96967pt too wide) in paragraph at lines 1138--1141
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Hermógenes. \EU1/LinuxLibertineO(0)/m/it/10
-.95 Commentarium in Hermogenis librum \EU1/LinuxLibertineO(0)/m/n/10.95 perì
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-Overfull \hbox (1.66406pt too wide) in paragraph at lines 1149--1152
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Hipócrates. \EU1/LinuxLibertineO(0)/m/it/10
-.95 Aforismos\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. JMde Rezende, São Paulo:
-
- []
-
-
-Overfull \hbox (3.2579pt too wide) in paragraph at lines 1170--1173
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Isocrates’ \EU1/LinuxLibertineO(0)/m/it/10.
-95 Antidosis\EU1/LinuxLibertineO(0)/m/n/10.95 , a commentary, Too, YL., New Yor
-k:
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44]
-Overfull \hbox (5.82628pt too wide) in paragraph at lines 1186--1188
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Omero. \EU1/LinuxLibertineO(0)/m/it/10.95 O
-dissea\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Onesti, RC.,Torino: Einaudi, 19
-89. 
- []
-
-
-Overfull \hbox (3.46954pt too wide) in paragraph at lines 1188--1190
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Pausanias. \EU1/LinuxLibertineO(0)/m/it/10.
-95 Description of Greece\EU1/LinuxLibertineO(0)/m/n/10.95 , Leipzig: Teubner, 1
-967. 
- []
-
-
-Overfull \hbox (8.36905pt too wide) in paragraph at lines 1195--1198
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Platão. \EU1/LinuxLibertineO(0)/m/it/10.95 
-Apologia de Sócrates, Eutifron, Críton, \EU1/LinuxLibertineO(0)/m/n/10.95 trad\
-EU1/LinuxLibertineO(0)/m/it/10.95 . \EU1/LinuxLibertineO(0)/m/n/10.95 Malta,
- []
-
-
-Overfull \hbox (3.23723pt too wide) in paragraph at lines 1210--1213
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Platão. \EU1/LinuxLibertineO(0)/m/it/10.95 
-Parmênides\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Iglésias, M& Rodrigues, FSã
-o
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [45]
-Overfull \hbox (0.36339pt too wide) in paragraph at lines 1234--1237
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Plotino. \EU1/LinuxLibertineO(0)/m/it/10.95
- Sobre o Belo \EU1/LinuxLibertineO(0)/m/n/10.95 In \EU1/LinuxLibertineO(0)/m/it
-/10.95 Tratados das Enéadas\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Som-
- []
-
-
-Overfull \hbox (20.10147pt too wide) in paragraph at lines 1243--1245
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Strabo. \EU1/LinuxLibertineO(0)/m/it/10.95 
-Geography\EU1/LinuxLibertineO(0)/m/n/10.95 , Volume V: Books 10–12, trad. HLJon
-es,
- []
-
-
-Overfull \hbox (1.84169pt too wide) in paragraph at lines 1261--1264
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Arnaoutoglou, I\EU1/LinuxLibertineO(0)/m/it
-/10.95 Leis da Grécia Antiga\EU1/LinuxLibertineO(0)/m/n/10.95 , São Paulo: Odys
--
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [46]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
-Overfull \hbox (2.69215pt too wide) in paragraph at lines 1324--1326
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Colli, G\EU1/LinuxLibertineO(0)/m/it/10.95 
-La Nascita della filosofia\EU1/LinuxLibertineO(0)/m/n/10.95 , Milano: Adelphi, 
-1975. 
- []
-
-
-Overfull \hbox (6.64511pt too wide) in paragraph at lines 1338--1340
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 D’Alfonso, F\EU1/LinuxLibertineO(0)/m/it/10
-.95 Stesicoro et la performance\EU1/LinuxLibertineO(0)/m/n/10.95 , Roma: \EU1/L
-inuxLibertineO(0)/m/sc/10.95 gei\EU1/LinuxLibertineO(0)/m/n/10.95 , 1994. 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [48]
-Overfull \hbox (3.87025pt too wide) in paragraph at lines 1371--1374
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Ferrari, GRF. \EU1/LinuxLibertineO(0)/m/it/
-10.95 Listening to the Cicadas: A Study of Plato’s
- []
-
-
-Overfull \hbox (9.72565pt too wide) in paragraph at lines 1371--1374
-\EU1/LinuxLibertineO(0)/m/it/10.95 Phaedrus\EU1/LinuxLibertineO(0)/m/n/10.95 , 
-Cambridge: Cambridge Classical Studies, 1990. 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [49]
-Overfull \hbox (25.0631pt too wide) in paragraph at lines 1444--1447
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Kirk, GS, Raven, JE& Schofield, M\EU1/Linux
-LibertineO(0)/m/it/10.95 Os filósofos pré-socráticos\EU1/LinuxLibertineO(0)/m/n
-/10.95 ,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50]
-Overfull \hbox (1.92198pt too wide) in paragraph at lines 1465--1468
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Marrou, H-I\EU1/LinuxLibertineO(0)/m/it/10.
-95 Histoire de l’Education dans L’Antiquité\EU1/LinuxLibertineO(0)/m/n/10.95 , 
-Pa-
- []
-
-
-Overfull \hbox (0.50941pt too wide) in paragraph at lines 1477--1480
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Mossé, C\EU1/LinuxLibertineO(0)/m/it/10.95 
-Histoire d’une démocratie: Athènes\EU1/LinuxLibertineO(0)/m/n/10.95 , Paris: Ed
-i-
- []
-
-
-Overfull \hbox (3.19945pt too wide) in paragraph at lines 1483--1486
-\EU1/LinuxLibertineO(0)/m/it/10.95 the construct of philosophy\EU1/LinuxLiberti
-neO(0)/m/n/10.95 , Cambridge University Press,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [51]
-Overfull \hbox (6.16693pt too wide) in paragraph at lines 1490--1493
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Pradeau J-F& Brisson, L. \EU1/LinuxLibertin
-eO(0)/m/it/10.95 Dictionnaire Platon\EU1/LinuxLibertineO(0)/m/n/10.95 , Paris: 
-Elip-
- []
-
-
-Overfull \hbox (5.47345pt too wide) in paragraph at lines 1498--1501
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Reale, G\EU1/LinuxLibertineO(0)/m/it/10.95 
-Por uma nova interpretação de Platão\EU1/LinuxLibertineO(0)/m/n/10.95 , São Pau
-lo:
- []
-
-
-Overfull \hbox (17.90536pt too wide) in paragraph at lines 1510--1514
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Robinson, TM. \EU1/LinuxLibertineO(0)/m/it/
-10.95 The argument for immortality in Plato’s Pha-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-Overfull \hbox (10.80151pt too wide) in paragraph at lines 1550--1553
-[]\EU1/LinuxLibertineO(0)/m/n/10.95 Urbina, JM P. \EU1/LinuxLibertineO(0)/m/it/
-10.95 Diccionario bilingüe manual Griego clássico-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [53]
-[54] [55
-
-] [56]) (./FEDRO.tex
-Overfull \hbox (0.6121pt too wide) in paragraph at lines 10--16
+] [24]) (./FEDRO.tex
+Overfull \hbox (0.6121pt too wide) in paragraph at lines 11--17
 \EU1/LinuxLibertineO(0)/m/n/10.95 percorri o passeio pelas estradas (\EU1/Linux
 LibertineO(0)/m/it/10.95 hodoùs\EU1/LinuxLibertineO(0)/m/n/10.95 ), pois, segun
 do
  []
 
-[57
+[25
 
 ]
-Overfull \hbox (20.82944pt too wide) in paragraph at lines 84--103
+Overfull \hbox (20.82944pt too wide) in paragraph at lines 85--104
 \EU1/LinuxLibertineO(0)/m/n/10.95 res (\EU1/LinuxLibertineO(0)/m/it/10.95 légei
 n\EU1/LinuxLibertineO(0)/m/n/10.95 ), persuadido de boa vontade (\EU1/LinuxLibe
 rtineO(0)/m/it/10.95 epeítheto prothúmōs\EU1/LinuxLibertineO(0)/m/n/10.95 ).
  []
 
 
-Overfull \hbox (13.69366pt too wide) in paragraph at lines 84--103
+Overfull \hbox (13.69366pt too wide) in paragraph at lines 85--104
 \EU1/LinuxLibertineO(0)/m/n/10.95 muros (\EU1/LinuxLibertineO(0)/m/it/10.95 ekt
 òs teíchous\EU1/LinuxLibertineO(0)/m/n/10.95 ) para exercitar-te, encontraste a
 quele
  []
 
-[58] [59]
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+[26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 
-Overfull \hbox (2.30765pt too wide) in paragraph at lines 161--164
+Overfull \hbox (2.30765pt too wide) in paragraph at lines 162--165
 []\EU1/LinuxLibertineO(0)/m/n/10.95 [229b] F: Uma sombra, uma brisa moderada (\
 EU1/LinuxLibertineO(0)/m/it/10.95 pneûma
  []
 
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 187.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 187.
 
-Overfull \hbox (3.07027pt too wide) in paragraph at lines 185--188
+Overfull \hbox (3.07027pt too wide) in paragraph at lines 186--189
 []\EU1/LinuxLibertineO(0)/m/n/10.95 [229c] S: Não é aqui, mas dois ou três está
 dios$[][][]$abaixo,
  []
 
-[60] [61]
-Overfull \hbox (2.38843pt too wide) in paragraph at lines 249--254
+[28] [29]
+Overfull \hbox (2.38843pt too wide) in paragraph at lines 250--255
 \EU1/LinuxLibertineO(0)/m/n/10.95 mirável. Pelo que dizes, sem nenhum artifício
  (\EU1/LinuxLibertineO(0)/m/it/10.95 atéchnôs\EU1/LinuxLibertineO(0)/m/n/10.95 
 ),
  []
 
-[62]
-Overfull \hbox (5.18552pt too wide) in paragraph at lines 273--287
+[30]
+Overfull \hbox (5.18552pt too wide) in paragraph at lines 274--288
 \EU1/LinuxLibertineO(0)/m/n/10.95 cessado o seu desejo (\EU1/LinuxLibertineO(0)
 /m/it/10.95 epithymías paúsōntai\EU1/LinuxLibertineO(0)/m/n/10.95 ), arrependem
 -
  []
 
 
-Overfull \hbox (3.46999pt too wide) in paragraph at lines 273--287
+Overfull \hbox (3.46999pt too wide) in paragraph at lines 274--288
 \EU1/LinuxLibertineO(0)/m/n/10.95 desejando-lhes (\EU1/LinuxLibertineO(0)/m/it/
 10.95 bouleúsainto\EU1/LinuxLibertineO(0)/m/n/10.95 ) o melhor nos assuntos pes
 -
  []
 
 
-Overfull \hbox (4.74994pt too wide) in paragraph at lines 288--315
+Overfull \hbox (4.74994pt too wide) in paragraph at lines 289--316
 \EU1/LinuxLibertineO(0)/m/n/10.95 casse outros (\EU1/LinuxLibertineO(0)/m/it/10
 .95 ek tôn állôn\EU1/LinuxLibertineO(0)/m/n/10.95 ) entre muitos (\EU1/LinuxLib
 ertineO(0)/m/it/10.95 ek pollôn\EU1/LinuxLibertineO(0)/m/n/10.95 ). [231e]
  []
 
-[63]
-Overfull \hbox (40.127pt too wide) in paragraph at lines 316--329
+[31]
+Overfull \hbox (40.127pt too wide) in paragraph at lines 317--330
 \EU1/LinuxLibertineO(0)/m/n/10.95 pois é verossímil (\EU1/LinuxLibertineO(0)/m/
 it/10.95 eikós esti\EU1/LinuxLibertineO(0)/m/n/10.95 ) [232a] que os amantes, c
 onsiderando-
  []
 
-[64] [65]
-Overfull \hbox (24.80254pt too wide) in paragraph at lines 357--395
+[32] [33]
+Overfull \hbox (24.80254pt too wide) in paragraph at lines 358--396
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Na verdade, muitos amantes (\EU1/LinuxLiber
 tineO(0)/m/it/10.95 erṓntōn\EU1/LinuxLibertineO(0)/m/n/10.95 ) desejam (\EU1/Li
 nuxLibertineO(0)/m/it/10.95 epethúmē-
  []
 
-[66] [67] [68]
-Overfull \hbox (9.03627pt too wide) in paragraph at lines 472--486
+[34] [35] [36]
+Overfull \hbox (9.03627pt too wide) in paragraph at lines 473--487
 \EU1/LinuxLibertineO(0)/m/n/10.95 não tivesse muitos recursos adicionais para f
 azê-lo, acerca
  []
 
-[69] [70] [71]
-Overfull \hbox (5.51602pt too wide) in paragraph at lines 562--565
+[37] [38] [39]
+Overfull \hbox (5.51602pt too wide) in paragraph at lines 563--566
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Tomaste a sério, ó Fedro, porque eu brin
 quei acerca
  []
 
 
-Overfull \hbox (2.98825pt too wide) in paragraph at lines 568--579
+Overfull \hbox (2.98825pt too wide) in paragraph at lines 569--580
 \EU1/LinuxLibertineO(0)/m/n/10.95 trocando mutuamente de papéis, e que não quei
 ras ainda
  []
 
 
-Overfull \hbox (8.03256pt too wide) in paragraph at lines 582--585
+Overfull \hbox (8.03256pt too wide) in paragraph at lines 583--586
 \EU1/LinuxLibertineO(0)/m/n/10.95 se, de improviso, um inábil como eu procurass
 e equiparar-
  []
 
-[72]
-Overfull \hbox (1.16882pt too wide) in paragraph at lines 588--590
+[40]
+Overfull \hbox (1.16882pt too wide) in paragraph at lines 589--591
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Perceba que é melhor parar (\EU1/LinuxLi
 bertineO(0)/m/it/10.95 paûsai\EU1/LinuxLibertineO(0)/m/n/10.95 ) de vangloriar-
 
  []
 
 
-Overfull \hbox (5.87738pt too wide) in paragraph at lines 615--617
+Overfull \hbox (5.87738pt too wide) in paragraph at lines 616--618
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Em absoluto, uma vez que tu prometeste i
 sso, como
  []
 
 
-Overfull \hbox (0.43152pt too wide) in paragraph at lines 638--639
+Overfull \hbox (0.43152pt too wide) in paragraph at lines 639--640
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Simplesmente fala, de resto faz como que
 iras (\EU1/LinuxLibertineO(0)/m/it/10.95 boú-
  []
 
 
-Overfull \hbox (15.90923pt too wide) in paragraph at lines 642--655
+Overfull \hbox (15.90923pt too wide) in paragraph at lines 643--656
 \EU1/LinuxLibertineO(0)/m/n/10.95 ambas são epônimas, “toma da minha” palavra (
 \EU1/LinuxLibertineO(0)/m/it/10.95 toû mýthou\EU1/LinuxLibertineO(0)/m/n/10.95 
 )
  []
 
-[73] [74] [75]
-Overfull \hbox (2.62157pt too wide) in paragraph at lines 722--723
+[41] [42] [43]
+Overfull \hbox (2.62157pt too wide) in paragraph at lines 723--724
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Completamente, ó Sócrates, foste tomado 
 por uma
  []
 
 
-Overfull \hbox (3.47368pt too wide) in paragraph at lines 744--761
+Overfull \hbox (3.47368pt too wide) in paragraph at lines 745--762
 \EU1/LinuxLibertineO(0)/m/n/10.95 (\EU1/LinuxLibertineO(0)/m/it/10.95 nosoûnti\
 EU1/LinuxLibertineO(0)/m/n/10.95 ) é necessário que tudo lhe seja agradável (\E
 U1/LinuxLibertineO(0)/m/it/10.95 hedù\EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
-[76] [77]
-Overfull \hbox (6.74774pt too wide) in paragraph at lines 786--801
+[44] [45]
+Overfull \hbox (6.74774pt too wide) in paragraph at lines 787--802
 \EU1/LinuxLibertineO(0)/m/n/10.95 para avançarmos no comentário, mas delimitemo
 s a ques-
  []
 
-[78] [79] [80]
-Overfull \hbox (7.82446pt too wide) in paragraph at lines 883--901
+[46] [47] [48]
+Overfull \hbox (7.82446pt too wide) in paragraph at lines 884--902
 \EU1/LinuxLibertineO(0)/m/n/10.95 entregar-se a alguém sem crença (\EU1/LinuxLi
 bertineO(0)/m/it/10.95 apístôi\EU1/LinuxLibertineO(0)/m/n/10.95 ), mal-humorado
 ,
  []
 
-[81] [82]
-Overfull \hbox (6.62564pt too wide) in paragraph at lines 953--967
+[49] [50]
+Overfull \hbox (6.62564pt too wide) in paragraph at lines 954--968
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Quando decidi, ó meu caro, atravessar o 
 rio, um \EU1/LinuxLibertineO(0)/m/it/10.95 dai-
  []
 
-[83]
-Overfull \hbox (6.80855pt too wide) in paragraph at lines 1009--1025
+[51]
+Overfull \hbox (6.80855pt too wide) in paragraph at lines 1010--1026
 \EU1/LinuxLibertineO(0)/m/it/10.95 rasthai\EU1/LinuxLibertineO(0)/m/n/10.95 ). 
 Há uma purificação arcaica (\EU1/LinuxLibertineO(0)/m/it/10.95 katharmòs archaî
 os\EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
-[84]
-Overfull \hbox (4.41176pt too wide) in paragraph at lines 1040--1047
+[52]
+Overfull \hbox (4.41176pt too wide) in paragraph at lines 1041--1048
 \EU1/LinuxLibertineO(0)/m/n/10.95 algo pela linguagem abusiva contra Eros, trat
 o de ofertar-
  []
@@ -2174,107 +1787,107 @@ o de ofertar-
 
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
- [85]
-Overfull \hbox (19.91164pt too wide) in paragraph at lines 1105--1107
+ [53]
+Overfull \hbox (19.91164pt too wide) in paragraph at lines 1106--1108
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Ele está junto a ti, muito perto e sempr
 e a acompanhar-
  []
 
 
-Overfull \hbox (8.11285pt too wide) in paragraph at lines 1110--1130
+Overfull \hbox (8.11285pt too wide) in paragraph at lines 1111--1131
 \EU1/LinuxLibertineO(0)/m/it/10.95 manías\EU1/LinuxLibertineO(0)/m/n/10.95 ), a
  qual seguramente é um presente divino (\EU1/LinuxLibertineO(0)/m/it/10.95 theí
 ai\EU1/LinuxLibertineO(0)/m/n/10.95 ).
  []
 
-[86] [87]
-Overfull \hbox (11.77379pt too wide) in paragraph at lines 1152--1162
+[54] [55]
+Overfull \hbox (11.77379pt too wide) in paragraph at lines 1153--1163
 \EU1/LinuxLibertineO(0)/m/n/10.95 ros, sendo assim encontrado (\EU1/LinuxLibert
 ineO(0)/m/it/10.95 heuroméne\EU1/LinuxLibertineO(0)/m/n/10.95 ) o correto (\EU1
 /LinuxLibertineO(0)/m/it/10.95 orthôs\EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
-[88] [89] [90] [91]
-Overfull \hbox (6.66382pt too wide) in paragraph at lines 1257--1277
+[56] [57] [58] [59]
+Overfull \hbox (6.66382pt too wide) in paragraph at lines 1258--1278
 \EU1/LinuxLibertineO(0)/m/n/10.95 Ele é seguido por um exército de deuses e \EU
 1/LinuxLibertineO(0)/m/it/10.95 daimônes \EU1/LinuxLibertineO(0)/m/n/10.95 (\EU
 1/LinuxLibertineO(0)/m/it/10.95 theôn
  []
 
 
-Overfull \hbox (0.84932pt too wide) in paragraph at lines 1257--1277
+Overfull \hbox (0.84932pt too wide) in paragraph at lines 1258--1278
 \EU1/LinuxLibertineO(0)/m/it/10.95 te kaì daimónôn\EU1/LinuxLibertineO(0)/m/n/1
 0.95 ) ordenados (\EU1/LinuxLibertineO(0)/m/it/10.95 kekosmêménê\EU1/LinuxLiber
 tineO(0)/m/n/10.95 ) em onze par-
  []
 
 
-Overfull \hbox (15.8764pt too wide) in paragraph at lines 1257--1277
+Overfull \hbox (15.8764pt too wide) in paragraph at lines 1258--1278
 \EU1/LinuxLibertineO(0)/m/n/10.95 manece fora do coro dos deuses (\EU1/LinuxLib
 ertineO(0)/m/it/10.95 éxô theíou choroû\EU1/LinuxLibertineO(0)/m/n/10.95 ). Qua
 ndo
  []
 
 
-Overfull \hbox (0.9936pt too wide) in paragraph at lines 1278--1285
+Overfull \hbox (0.9936pt too wide) in paragraph at lines 1279--1286
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Ali mesmo fica o último (\EU1/LinuxLibertin
 eO(0)/m/it/10.95 éskatos\EU1/LinuxLibertineO(0)/m/n/10.95 ) grau de sofrimento
  []
 
-[92] [93] [94] [95]
-Overfull \hbox (3.60869pt too wide) in paragraph at lines 1388--1401
+[60] [61] [62] [63]
+Overfull \hbox (3.60869pt too wide) in paragraph at lines 1389--1402
 \EU1/LinuxLibertineO(0)/m/n/10.95 memorando o verdadeiro (\EU1/LinuxLibertineO(
 0)/m/it/10.95 alêthoûs anamimneiskómenos\EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
 
-Overfull \hbox (2.40427pt too wide) in paragraph at lines 1388--1401
+Overfull \hbox (2.40427pt too wide) in paragraph at lines 1389--1402
 \EU1/LinuxLibertineO(0)/m/n/10.95 alada e cheia de disposição, entretanto, quan
 do não pode
  []
 
-[96] [97]
-Overfull \hbox (30.96378pt too wide) in paragraph at lines 1447--1454
+[64] [65]
+Overfull \hbox (30.96378pt too wide) in paragraph at lines 1448--1455
 []\EU1/LinuxLibertineO(0)/m/n/10.95 [250e] Um recém-iniciado ou alguém que veio
  a corromper-
  []
 
 
-Overfull \hbox (0.89679pt too wide) in paragraph at lines 1447--1454
+Overfull \hbox (0.89679pt too wide) in paragraph at lines 1448--1455
 \EU1/LinuxLibertineO(0)/m/n/10.95 leza mesma (\EU1/LinuxLibertineO(0)/m/it/10.9
 5 pròs autò tò kállos\EU1/LinuxLibertineO(0)/m/n/10.95 ), contemplando o mesmo
  []
 
-[98]
-Overfull \hbox (0.2313pt too wide) in paragraph at lines 1455--1486
+[66]
+Overfull \hbox (0.2313pt too wide) in paragraph at lines 1456--1487
 \EU1/LinuxLibertineO(0)/m/n/10.95 vocadas pelo brotar das asas (\EU1/LinuxLiber
 tineO(0)/m/it/10.95 phýousa tà pterá\EU1/LinuxLibertineO(0)/m/n/10.95 ). Quando
 ,
  []
 
 
-Overfull \hbox (32.16635pt too wide) in paragraph at lines 1455--1486
+Overfull \hbox (32.16635pt too wide) in paragraph at lines 1456--1487
 \EU1/LinuxLibertineO(0)/m/n/10.95 mado de desejo (\EU1/LinuxLibertineO(0)/m/it/
 10.95 hímeros\EU1/LinuxLibertineO(0)/m/n/10.95 ) [] é irrigada e aquecida, reco
 mpondo-
  []
 
-[99]
-Overfull \hbox (2.96832pt too wide) in paragraph at lines 1506--1514
+[67]
+Overfull \hbox (2.96832pt too wide) in paragraph at lines 1507--1515
 []\EU1/LinuxLibertineO(0)/m/n/10.95 [252b] Essa afecção (\EU1/LinuxLibertineO(0
 )/m/it/10.95 tò páthos\EU1/LinuxLibertineO(0)/m/n/10.95 ), ó bela criança a que
 m
  []
 
 
-Overfull \hbox (1.41507pt too wide) in paragraph at lines 1506--1514
+Overfull \hbox (1.41507pt too wide) in paragraph at lines 1507--1515
 \EU1/LinuxLibertineO(0)/m/n/10.95 Amor (\EU1/LinuxLibertineO(0)/m/it/10.95 Érôt
 a\EU1/LinuxLibertineO(0)/m/n/10.95 ) – o segundo verso é excessivo (\EU1/LinuxL
 ibertineO(0)/m/it/10.95 hybristikòn\EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
-[100]
-Overfull \hbox (1.11578pt too wide) in paragraph at lines 1529--1560
+[68]
+Overfull \hbox (1.11578pt too wide) in paragraph at lines 1530--1561
 \EU1/LinuxLibertineO(0)/m/n/10.95 penhado nestas ocupações, logo atentamente ap
 rendem,
  []
@@ -2282,224 +1895,224 @@ rendem,
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [101]
-Overfull \hbox (16.56989pt too wide) in paragraph at lines 1561--1580
+ [69]
+Overfull \hbox (16.56989pt too wide) in paragraph at lines 1562--1581
 \EU1/LinuxLibertineO(0)/m/n/10.95 o predileto (\EU1/LinuxLibertineO(0)/m/it/10.
 95 tà paidiká\EU1/LinuxLibertineO(0)/m/n/10.95 ) a imitá-lo (\EU1/LinuxLibertin
 eO(0)/m/it/10.95 mimoúmenoi\EU1/LinuxLibertineO(0)/m/n/10.95 ), conduzem-
  []
 
 
-Overfull \hbox (2.98825pt too wide) in paragraph at lines 1561--1580
+Overfull \hbox (2.98825pt too wide) in paragraph at lines 1562--1581
 \EU1/LinuxLibertineO(0)/m/n/10.95 -no assim à ocupação e ao aspecto (\EU1/Linux
 LibertineO(0)/m/it/10.95 idéian\EU1/LinuxLibertineO(0)/m/n/10.95 ) daquele [deu
 s]
  []
 
-[102] [103] [104]
-Overfull \hbox (2.37244pt too wide) in paragraph at lines 1638--1733
+[70] [71] [72]
+Overfull \hbox (2.37244pt too wide) in paragraph at lines 1639--1734
 []\EU1/LinuxLibertineO(0)/m/n/10.95 [254e] O auriga sofre a maior dessas afecçõ
 es (\EU1/LinuxLibertineO(0)/m/it/10.95 páthos
  []
 
 
-Overfull \hbox (3.11604pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (3.11604pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/it/10.95 pathón\EU1/LinuxLibertineO(0)/m/n/10.95 ), c
 omo se estivesse impedido por uma corda, uma
  []
 
 
-Overfull \hbox (0.75812pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (0.75812pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/n/10.95 A partir daí, ocorre que a alma do amante (\E
 U1/LinuxLibertineO(0)/m/it/10.95 erastoû\EU1/LinuxLibertineO(0)/m/n/10.95 ) pas
 sa
  []
 
 
-Overfull \hbox (8.04593pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (8.04593pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/n/10.95 zade. E quando por muito tempo age assim, apr
 oximando-
  []
 
 
-Overfull \hbox (2.01367pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (2.01367pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/n/10.95 [255c] aí então [surge] a fonte (\EU1/LinuxLi
 bertineO(0)/m/it/10.95 pêgḗ\EU1/LinuxLibertineO(0)/m/n/10.95 ) daquele fluxo (\
 EU1/LinuxLibertineO(0)/m/it/10.95 rheú-
  []
 
 
-Overfull \hbox (4.91177pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (4.91177pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/n/10.95 (\EU1/LinuxLibertineO(0)/m/it/10.95 méthais\E
 U1/LinuxLibertineO(0)/m/n/10.95 ) ou em outras ocasiões de despreocupação (\EU1
 /LinuxLibertineO(0)/m/it/10.95 ame-
  []
 
 
-Overfull \hbox (4.2548pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (4.2548pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/it/10.95 leíai\EU1/LinuxLibertineO(0)/m/n/10.95 ), os
  dois [cavalos] libertinos (\EU1/LinuxLibertineO(0)/m/it/10.95 akolástô\EU1/Lin
 uxLibertineO(0)/m/n/10.95 ), sob o mesmo
  []
 
 
-Overfull \hbox (10.76639pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (10.76639pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/n/10.95 jugo, tomam as almas desprevenidas (\EU1/Linu
 xLibertineO(0)/m/it/10.95 aphroúrous\EU1/LinuxLibertineO(0)/m/n/10.95 ), unindo
 -
  []
 
 
-Overfull \hbox (9.31006pt too wide) in paragraph at lines 1638--1733
+Overfull \hbox (9.31006pt too wide) in paragraph at lines 1639--1734
 \EU1/LinuxLibertineO(0)/m/n/10.95 mento em ocasiões futuras, embora raramente i
 sso ocorra,
  []
 
-[105] [106] [107] [108]
-Overfull \hbox (8.55084pt too wide) in paragraph at lines 1762--1772
+[73] [74] [75] [76]
+Overfull \hbox (8.55084pt too wide) in paragraph at lines 1763--1773
 \EU1/LinuxLibertineO(0)/m/n/10.95 sultos proferidos o designava por logógrafo (
 \EU1/LinuxLibertineO(0)/m/it/10.95 logográphon\EU1/LinuxLibertineO(0)/m/n/10.95
  ).
  []
 
-[109]
-Overfull \hbox (8.15495pt too wide) in paragraph at lines 1792--1801
+[77]
+Overfull \hbox (8.15495pt too wide) in paragraph at lines 1793--1802
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Doce rodeio, ó Fedro, mas esqueces ainda
  do grande
  []
 
-[110]
-Overfull \hbox (3.06131pt too wide) in paragraph at lines 1818--1826
+[78]
+Overfull \hbox (3.06131pt too wide) in paragraph at lines 1819--1827
 \EU1/LinuxLibertineO(0)/m/n/10.95 “pelo povo”, ou por ambos, e ao dizer “aquele
  que”, refere-
  []
 
 
-Overfull \hbox (2.69255pt too wide) in paragraph at lines 1833--1836
+Overfull \hbox (2.69255pt too wide) in paragraph at lines 1834--1837
 \EU1/LinuxLibertineO(0)/m/n/10.95 dignidade (\EU1/LinuxLibertineO(0)/m/it/10.95
  áxios\EU1/LinuxLibertineO(0)/m/n/10.95 ) de escrever (\EU1/LinuxLibertineO(0)/
 m/it/10.95 suggráphein\EU1/LinuxLibertineO(0)/m/n/10.95 ), lamentando-
  []
 
-[111]
-Overfull \hbox (2.94643pt too wide) in paragraph at lines 1863--1866
+[79]
+Overfull \hbox (2.94643pt too wide) in paragraph at lines 1864--1867
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Consideras que um desses, qualquer um, c
 om qual-
  []
 
-[112]
-Overfull \hbox (4.71103pt too wide) in paragraph at lines 1913--1924
+[80]
+Overfull \hbox (4.71103pt too wide) in paragraph at lines 1914--1925
 \EU1/LinuxLibertineO(0)/m/n/10.95 quanto isso as cigarras cantoras conversam en
 tre si nesse
  []
 
-[113]
-Overfull \hbox (8.7917pt too wide) in paragraph at lines 1978--1985
+[81]
+Overfull \hbox (8.7917pt too wide) in paragraph at lines 1979--1986
 \EU1/LinuxLibertineO(0)/m/n/10.95 compreender (\EU1/LinuxLibertineO(0)/m/it/10.
 95 manthánein\EU1/LinuxLibertineO(0)/m/n/10.95 ) o que é verdadeiramente justo
  []
 
-[114]
-Overfull \hbox (0.12303pt too wide) in paragraph at lines 2006--2011
+[82]
+Overfull \hbox (0.12303pt too wide) in paragraph at lines 2007--2012
 \EU1/LinuxLibertineO(0)/m/n/10.95 se alguma coisa, entretanto, eu soubesse sobr
 e você, que
  []
 
 
-Overfull \hbox (10.58388pt too wide) in paragraph at lines 2018--2023
+Overfull \hbox (10.58388pt too wide) in paragraph at lines 2019--2024
 \EU1/LinuxLibertineO(0)/m/n/10.95 persuasão (\EU1/LinuxLibertineO(0)/m/it/10.95
  peíthoimi\EU1/LinuxLibertineO(0)/m/n/10.95 ), colocando o discurso elogioso (\
 EU1/LinuxLibertineO(0)/m/it/10.95 épai-
  []
 
-[115]
-Overfull \hbox (3.75304pt too wide) in paragraph at lines 2083--2085
+[83]
+Overfull \hbox (3.75304pt too wide) in paragraph at lines 2084--2086
 []\EU1/LinuxLibertineO(0)/m/n/10.95 [261a] Precisamos desses discursos, ó Sócra
 tes, traze-
  []
 
-[116]
-Overfull \hbox (2.37135pt too wide) in paragraph at lines 2110--2113
+[84]
+Overfull \hbox (2.37135pt too wide) in paragraph at lines 2111--2114
 \EU1/LinuxLibertineO(0)/m/n/10.95 que especialmente nos tribunais (\EU1/LinuxLi
 bertineO(0)/m/it/10.95 dikás\EU1/LinuxLibertineO(0)/m/n/10.95 ) fala-se e escre
 ve-
  []
 
-[117] [118]
-Overfull \hbox (3.1853pt too wide) in paragraph at lines 2246--2252
+[85] [86]
+Overfull \hbox (3.1853pt too wide) in paragraph at lines 2247--2253
 \EU1/LinuxLibertineO(0)/m/it/10.95 bázein\EU1/LinuxLibertineO(0)/m/n/10.95 ), s
 eguindo as menores semelhanças (\EU1/LinuxLibertineO(0)/m/it/10.95 homoiotḗtôn\
 EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
-[119]
-Overfull \hbox (0.54277pt too wide) in paragraph at lines 2271--2275
+[87]
+Overfull \hbox (0.54277pt too wide) in paragraph at lines 2272--2276
 \EU1/LinuxLibertineO(0)/m/n/10.95 servar o que neles há desprovido de arte (\EU
 1/LinuxLibertineO(0)/m/it/10.95 atéchnôn\EU1/LinuxLibertineO(0)/m/n/10.95 ), be
 m
  []
 
 
-Overfull \hbox (3.01122pt too wide) in paragraph at lines 2278--2280
+Overfull \hbox (3.01122pt too wide) in paragraph at lines 2279--2281
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: É o melhor a fazer, especialmente porque
  até agora
  []
 
-[120] [121]
-Overfull \hbox (4.58331pt too wide) in paragraph at lines 2398--2403
+[88] [89]
+Overfull \hbox (4.58331pt too wide) in paragraph at lines 2399--2404
 \EU1/LinuxLibertineO(0)/m/it/10.95 símôn\EU1/LinuxLibertineO(0)/m/n/10.95 ), ou
  consideras ser possível admitir o que há pouco
  []
 
-[122]
-Overfull \hbox (32.19553pt too wide) in paragraph at lines 2436--2442
+[90]
+Overfull \hbox (32.19553pt too wide) in paragraph at lines 2437--2443
 \EU1/LinuxLibertineO(0)/m/n/10.95 tenha cessado o seu desejo (\EU1/LinuxLiberti
 neO(0)/m/it/10.95 epithymías paúsôntai\EU1/LinuxLibertineO(0)/m/n/10.95 ), arre
 pendem-
  []
 
-[123]
-Overfull \hbox (6.12184pt too wide) in paragraph at lines 2485--2490
+[91]
+Overfull \hbox (6.12184pt too wide) in paragraph at lines 2486--2491
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Verifica (\EU1/LinuxLibertineO(0)/m/it/1
 0.95 sképsai\EU1/LinuxLibertineO(0)/m/n/10.95 ) esse discurso do teu companheir
 o,
  []
 
 
-Overfull \hbox (4.64049pt too wide) in paragraph at lines 2485--2490
+Overfull \hbox (4.64049pt too wide) in paragraph at lines 2486--2491
 \EU1/LinuxLibertineO(0)/m/n/10.95 seja ele assim ou de outra maneira. Não encon
 tras (\EU1/LinuxLibertineO(0)/m/it/10.95 heurḗ-
  []
 
 
-Overfull \hbox (3.05223pt too wide) in paragraph at lines 2535--2538
+Overfull \hbox (3.05223pt too wide) in paragraph at lines 2536--2539
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Meus dois discursos eram como que oposto
 s (\EU1/LinuxLibertineO(0)/m/it/10.95 enan-
  []
 
 
-Overfull \hbox (10.0948pt too wide) in paragraph at lines 2535--2538
+Overfull \hbox (10.0948pt too wide) in paragraph at lines 2536--2539
 \EU1/LinuxLibertineO(0)/m/it/10.95 tíô\EU1/LinuxLibertineO(0)/m/n/10.95 ), pois
  um dizia que é necessário agraciar (\EU1/LinuxLibertineO(0)/m/it/10.95 charídz
 esthai\EU1/LinuxLibertineO(0)/m/n/10.95 )
  []
 
 
-Overfull \hbox (3.19144pt too wide) in paragraph at lines 2545--2549
+Overfull \hbox (3.19144pt too wide) in paragraph at lines 2546--2550
 \EU1/LinuxLibertineO(0)/m/n/10.95 que de fato eu procurava. Pois dizemos ser o 
 amor (\EU1/LinuxLibertineO(0)/m/it/10.95 erôta\EU1/LinuxLibertineO(0)/m/n/10.95
  )
  []
 
-[124]
-Overfull \hbox (2.58675pt too wide) in paragraph at lines 2556--2560
+[92]
+Overfull \hbox (2.58675pt too wide) in paragraph at lines 2557--2561
 \EU1/LinuxLibertineO(0)/m/n/10.95 mas habituais sob a influência da divindade (
 \EU1/LinuxLibertineO(0)/m/it/10.95 hypò theías\EU1/LinuxLibertineO(0)/m/n/10.95
  ). 
  []
 
-[125]
-Overfull \hbox (15.47115pt too wide) in paragraph at lines 2622--2641
+[93]
+Overfull \hbox (15.47115pt too wide) in paragraph at lines 2623--2642
 \EU1/LinuxLibertineO(0)/m/it/10.95 lin\EU1/LinuxLibertineO(0)/m/n/10.95 ) disce
 rní-la (\EU1/LinuxLibertineO(0)/m/it/10.95 témnôn\EU1/LinuxLibertineO(0)/m/n/10
 .95 ) enquanto não descobriu (\EU1/LinuxLibertineO(0)/m/it/10.95 epheurṑn\EU1/L
@@ -2507,231 +2120,181 @@ inuxLibertineO(0)/m/n/10.95 )
  []
 
 
-Overfull \hbox (7.6347pt too wide) in paragraph at lines 2622--2641
+Overfull \hbox (7.6347pt too wide) in paragraph at lines 2623--2642
 \EU1/LinuxLibertineO(0)/m/n/10.95 amor, apresentando-a diante dos nossos olhos 
 e cantando-
  []
 
-[126] [127]
-Overfull \hbox (0.18143pt too wide) in paragraph at lines 2696--2703
+[94] [95]
+Overfull \hbox (0.18143pt too wide) in paragraph at lines 2697--2704
 \EU1/LinuxLibertineO(0)/m/n/10.95 peito, em terceiro lugar a “prova” (\EU1/Linu
 xLibertineO(0)/m/it/10.95 tekmḗria\EU1/LinuxLibertineO(0)/m/n/10.95 ) e em quar
 to
  []
 
 
-Overfull \hbox (55.02235pt too wide) in paragraph at lines 2710--2729
+Overfull \hbox (55.02235pt too wide) in paragraph at lines 2711--2730
 \EU1/LinuxLibertineO(0)/m/it/10.95 ron\EU1/LinuxLibertineO(0)/m/n/10.95 ) a con
 cisão discursiva e seu prolongamento indefinido?$[][][]$Ouvindo
  []
 
 
-Overfull \hbox (0.41867pt too wide) in paragraph at lines 2710--2729
+Overfull \hbox (0.41867pt too wide) in paragraph at lines 2711--2730
 \EU1/LinuxLibertineO(0)/m/n/10.95 isso de mim, outrora, Pródico sorriu e disse 
 que somente
  []
 
-[128]
-Overfull \hbox (5.67094pt too wide) in paragraph at lines 2745--2750
+[96]
+Overfull \hbox (5.67094pt too wide) in paragraph at lines 2746--2751
 \EU1/LinuxLibertineO(0)/m/n/10.95 [267c] Com sua duplicação discursiva (\EU1/Li
 nuxLibertineO(0)/m/it/10.95 diplasiologían\EU1/LinuxLibertineO(0)/m/n/10.95 )\E
 U1/LinuxLibertineO(0)/m/it/10.95 , \EU1/LinuxLibertineO(0)/m/n/10.95 co-
  []
 
-[129] [130] [131] [132] [133]
-Overfull \hbox (2.19814pt too wide) in paragraph at lines 2975--2978
+[97] [98] [99] [100] [101]
+Overfull \hbox (2.19814pt too wide) in paragraph at lines 2976--2979
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Se devemos acreditar em Hipócrates, que 
 pertence
  []
 
-[134]
-Overfull \hbox (3.8314pt too wide) in paragraph at lines 3054--3059
+[102]
+Overfull \hbox (3.8314pt too wide) in paragraph at lines 3055--3060
 \EU1/LinuxLibertineO(0)/m/n/10.95 disposição entre gêneros de discursos e almas
 , bem como
  []
 
 
-Overfull \hbox (7.74055pt too wide) in paragraph at lines 3066--3072
+Overfull \hbox (7.74055pt too wide) in paragraph at lines 3067--3073
 \EU1/LinuxLibertineO(0)/m/n/10.95 todas essas artes discursivas e as dissimulam
 , tendo muito
  []
 
-[135] [136]
-Overfull \hbox (0.95718pt too wide) in paragraph at lines 3135--3136
+[103] [104]
+Overfull \hbox (0.95718pt too wide) in paragraph at lines 3136--3137
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Eu poderia até tentar, mas assim, agora,
  não posso. 
  []
 
-[137]
-Overfull \hbox (5.30605pt too wide) in paragraph at lines 3156--3173
+[105]
+Overfull \hbox (5.30605pt too wide) in paragraph at lines 3157--3174
 \EU1/LinuxLibertineO(0)/m/n/10.95 feito o que dissemos no início dessa discussã
 o, que aquele
  []
 
-[138] [139] [140] [141]
-Overfull \hbox (1.1032pt too wide) in paragraph at lines 3347--3349
+[106] [107] [108] [109]
+Overfull \hbox (1.1032pt too wide) in paragraph at lines 3348--3350
 []\EU1/LinuxLibertineO(0)/m/n/10.95 F: Correta é a tua repreensão e me parece q
 ue, acerca
  []
 
-[142] [143]
-Overfull \hbox (2.83687pt too wide) in paragraph at lines 3440--3444
+[110] [111]
+Overfull \hbox (2.83687pt too wide) in paragraph at lines 3441--3445
 []\EU1/LinuxLibertineO(0)/m/n/10.95 S: Então não vai cuidadosamente escrevê-las
  na água
  []
 
-[144] [145] [146] [147] [148] [149]) (./POSFACIO904.tex [150] [151
-
-]
-Overfull \hbox (2.92256pt too wide) in paragraph at lines 37--54
+[112] [113] [114] [115] [116] [117]) (./POSFACIO904.tex [118]
+Overfull \hbox (2.92256pt too wide) in paragraph at lines 34--51
 \EU1/LinuxLibertineO(0)/m/it/10.95 cas \EU1/LinuxLibertineO(0)/m/n/10.95 e \EU1
 /LinuxLibertineO(0)/m/it/10.95 teológicas\EU1/LinuxLibertineO(0)/m/n/10.95 , es
 pecialmente no que concerniam a Eros. 
  []
 
+[119
 
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [152]
-Underfull \vbox (badness 1509) has occurred while \output is active []
+ [120]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [153]
-[154]
-Overfull \hbox (2.06476pt too wide) in paragraph at lines 148--158
+ [121]
+[122]
+Overfull \hbox (2.06476pt too wide) in paragraph at lines 145--155
 \EU1/LinuxLibertineO(0)/m/n/10.95 recitações haviam sido soberanas e seus \EU1/
 LinuxLibertineO(0)/m/it/10.95 intermezzos \EU1/LinuxLibertineO(0)/m/n/10.95 fun
 -
  []
 
-[155]
-Overfull \hbox (2.44072pt too wide) in paragraph at lines 159--164
+[123]
+Overfull \hbox (2.44072pt too wide) in paragraph at lines 156--161
 \EU1/LinuxLibertineO(0)/m/n/10.95 entendemos a distância desse segundo moviment
 o como
  []
 
 
-Overfull \hbox (1.24721pt too wide) in paragraph at lines 159--164
+Overfull \hbox (1.24721pt too wide) in paragraph at lines 156--161
 \EU1/LinuxLibertineO(0)/m/n/10.95 um efeito discursivo, como uma maneira prátic
 a de apre-
  []
 
-[156]
-Overfull \hbox (6.50563pt too wide) in paragraph at lines 187--193
+[124]
+Overfull \hbox (6.50563pt too wide) in paragraph at lines 184--190
 \EU1/LinuxLibertineO(0)/m/n/10.95 líneo ou espécie de hino pronunciado por Sócr
 ates. Desse
  []
 
 
-Overfull \hbox (3.48103pt too wide) in paragraph at lines 194--211
+Overfull \hbox (3.48103pt too wide) in paragraph at lines 191--208
 \EU1/LinuxLibertineO(0)/m/n/10.95 pelo qual Sócrates porá em discussão (2) a na
 tureza desse
  []
 
-[157]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [158]
-Overfull \hbox (0.64859pt too wide) in paragraph at lines 251--267
-\EU1/LinuxLibertineO(0)/m/n/10.95 p.148–149) a encontra nas fábulas milésias e 
-mostra tam-
- []
-
+[125]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [159]
-Underfull \vbox (badness 6893) has occurred while \output is active []
-
- [160]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [161]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [162]
-[163] [164] [165]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [166]
-[167] [168] [169]
-Overfull \hbox (5.3644pt too wide) in paragraph at lines 626--636
-\EU1/LinuxLibertineO(0)/m/n/10.95 fio proposto, exemplifica esse impulso do \EU
-1/LinuxLibertineO(0)/m/it/10.95 thymos\EU1/LinuxLibertineO(0)/m/n/10.95 , mesmo
-
- []
-
-
-Overfull \hbox (4.84976pt too wide) in paragraph at lines 626--636
-\EU1/LinuxLibertineO(0)/m/n/10.95 quais predominam o amor pela vitória (\EU1/Li
-nuxLibertineO(0)/m/it/10.95 niké\EU1/LinuxLibertineO(0)/m/n/10.95 ) e pela honr
-a
- []
-
-[170] [171]
-Overfull \hbox (4.58696pt too wide) in paragraph at lines 675--685
-\EU1/LinuxLibertineO(0)/m/n/10.95 imagem do trajeto das almas divinas e humanas
-, valendo-
- []
-
-
-Overfull \hbox (4.83511pt too wide) in paragraph at lines 692--707
-\EU1/LinuxLibertineO(0)/m/n/10.95 fortemente ligado aos impulsos mais violentos
-, enquanto
- []
-
-
-Overfull \hbox (15.0807pt too wide) in paragraph at lines 692--707
-\EU1/LinuxLibertineO(0)/m/n/10.95 uma visão de quem é conduzido pelo entusiásti
-co (\EU1/LinuxLibertineO(0)/m/it/10.95 enthoun\EU1/LinuxLibertineO(0)/m/n/10.95
- ),
- []
-
-[172]
-Overfull \hbox (2.09402pt too wide) in paragraph at lines 727--740
+ [126]
+Overfull \hbox (2.09402pt too wide) in paragraph at lines 248--261
 \EU1/LinuxLibertineO(0)/m/n/10.95 contra Helena reabilitada no temor de Sócrate
 s pela falta
  []
 
 
-Underfull \vbox (badness 6825) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [173]
-Overfull \hbox (11.8232pt too wide) in paragraph at lines 741--751
+ [127]
+Overfull \hbox (11.8232pt too wide) in paragraph at lines 262--272
 []\EU1/LinuxLibertineO(0)/m/n/10.95 No testemunho \EU1/LinuxLibertineO(0)/m/sc/
 10.95 b\EU1/LinuxLibertineO(0)/m/n/10.95 22c recolhido por Davies (1991, p.145)
 
  []
 
-[174]
-Underfull \vbox (badness 6893) has occurred while \output is active []
-
- [175]
-Overfull \hbox (7.33904pt too wide) in paragraph at lines 807--814
+[128]
+Overfull \hbox (7.33904pt too wide) in paragraph at lines 328--335
 \EU1/LinuxLibertineO(0)/m/n/10.95 da fixidez terrestre, classificando duas veze
 s o movimento
  []
 
 
-Overfull \hbox (3.2681pt too wide) in paragraph at lines 815--830
+Underfull \vbox (badness 2443) has occurred while \output is active []
+
+ [129]
+Overfull \hbox (3.2681pt too wide) in paragraph at lines 336--351
 \EU1/LinuxLibertineO(0)/m/n/10.95 (epodo – Sócrates 2). Há uma relação entre o 
 \EU1/LinuxLibertineO(0)/m/it/10.95 pattern \EU1/LinuxLibertineO(0)/m/sc/10.95 a
 ab\EU1/LinuxLibertineO(0)/m/n/10.95 ,
  []
 
-[176]
-Overfull \hbox (4.10255pt too wide) in paragraph at lines 841--849
+[130]
+Overfull \hbox (4.10255pt too wide) in paragraph at lines 362--370
 []\EU1/LinuxLibertineO(0)/m/n/10.95 A mimese, um procedimento vital da cultura 
 mnemô-
  []
 
 
-Overfull \hbox (0.34564pt too wide) in paragraph at lines 841--849
+Overfull \hbox (0.34564pt too wide) in paragraph at lines 362--370
 \EU1/LinuxLibertineO(0)/m/n/10.95 construindo histórias diferentes a partir des
 se corpo tex-
  []
 
-[177]
-Overfull \hbox (13.85669pt too wide) in paragraph at lines 879--891
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131]
+Overfull \hbox (13.85669pt too wide) in paragraph at lines 400--412
 \EU1/LinuxLibertineO(0)/m/n/10.95 rebaixados na filosofia de Platão. Ambos, par
 a-vituperados
  []
@@ -2739,41 +2302,43 @@ a-vituperados
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [178]
-[179]
-Overfull \hbox (1.8312pt too wide) in paragraph at lines 924--937
+ [132]
+[133]
+Overfull \hbox (1.8312pt too wide) in paragraph at lines 445--458
 \EU1/LinuxLibertineO(0)/m/n/10.95 vesse também fama de excelente escritor e fun
 dasse uma
  []
 
-[180]
-Overfull \hbox (1.68892pt too wide) in paragraph at lines 958--964
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [134]
+Overfull \hbox (1.68892pt too wide) in paragraph at lines 479--485
 \EU1/LinuxLibertineO(0)/m/n/10.95 por boas notas e soluções elegantes, a de Car
 los ANunes
  []
 
 
-Underfull \vbox (badness 3240) has occurred while \output is active []
-
- [181]
-Overfull \hbox (0.72403pt too wide) in paragraph at lines 974--985
+Overfull \hbox (0.72403pt too wide) in paragraph at lines 495--506
 \EU1/LinuxLibertineO(0)/m/n/10.95 serviu muitas vezes como material de consulta
 . Em fran-
  []
 
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
+
+Underfull \vbox (badness 2556) has occurred while \output is active []
+
+ [135]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
-Overfull \hbox (1.1847pt too wide) in paragraph at lines 1007--1010
+Overfull \hbox (1.1847pt too wide) in paragraph at lines 528--531
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Burnet, J. \EU1/LinuxLibertineO(0)/m/it/10.
 95 Platonis Opera \EU1/LinuxLibertineO(0)/m/n/10.95 tomus \EU1/LinuxLibertineO(
 0)/m/sc/10.95 ii\EU1/LinuxLibertineO(0)/m/n/10.95 , Oxford: Oxford Clas-
  []
 
-[182]
-Overfull \hbox (2.96097pt too wide) in paragraph at lines 1030--1034
+[136]
+Overfull \hbox (2.96097pt too wide) in paragraph at lines 551--555
 \EU1/LinuxLibertineO(0)/m/n/10.95 aparatu critic ornavit, Ed. Couvreur, Paris: 
 Émile Bouil-
  []
@@ -2781,14 +2346,14 @@ Overfull \hbox (2.96097pt too wide) in paragraph at lines 1030--1034
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [183]
-Overfull \hbox (3.50604pt too wide) in paragraph at lines 1063--1066
+ [137]
+Overfull \hbox (3.50604pt too wide) in paragraph at lines 584--587
 \EU1/LinuxLibertineO(0)/m/n/10.95 commentary by W.HThompson, London: Wittaker a
 nd
  []
 
 
-Overfull \hbox (12.32329pt too wide) in paragraph at lines 1086--1089
+Overfull \hbox (12.32329pt too wide) in paragraph at lines 607--610
 \EU1/LinuxLibertineO(0)/m/n/10.95 Andocides, trad. KJMaidment, Harvard Universi
 ty Press,
  []
@@ -2796,45 +2361,45 @@ ty Press,
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [184]
-Overfull \hbox (3.26756pt too wide) in paragraph at lines 1126--1129
+ [138]
+Overfull \hbox (3.26756pt too wide) in paragraph at lines 647--650
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Euripides. \EU1/LinuxLibertineO(0)/m/it/10.
 95 Hipólito\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Miralles, C., Barcelona: B
 osch,
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [185]
-Overfull \hbox (2.44267pt too wide) in paragraph at lines 1139--1142
+Overfull \hbox (2.44267pt too wide) in paragraph at lines 660--663
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Halicarnassus, Dionysius of. \EU1/LinuxLibe
 rtineO(0)/m/it/10.95 Critical Essays\EU1/LinuxLibertineO(0)/m/n/10.95 , vol. 1,
  trad.
  []
 
 
-Overfull \hbox (4.96967pt too wide) in paragraph at lines 1142--1145
+Overfull \hbox (4.96967pt too wide) in paragraph at lines 663--666
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Hermógenes. \EU1/LinuxLibertineO(0)/m/it/10
 .95 Commentarium in Hermogenis librum \EU1/LinuxLibertineO(0)/m/n/10.95 perì
  []
 
 
-Overfull \hbox (2.31497pt too wide) in paragraph at lines 1145--1147
+Overfull \hbox (2.31497pt too wide) in paragraph at lines 666--668
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Heródoto. \EU1/LinuxLibertineO(0)/m/it/10.9
 5 História\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Kury, M.GBrasília: UnB, 198
 5. 
  []
 
 
-Overfull \hbox (0.14323pt too wide) in paragraph at lines 1153--1156
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [139]
+Overfull \hbox (0.14323pt too wide) in paragraph at lines 674--677
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Hipócrates. \EU1/LinuxLibertineO(0)/m/it/10
 .95 Aforismos\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. JMde Rezende, São Paulo:
 
  []
 
 
-Overfull \hbox (3.2579pt too wide) in paragraph at lines 1174--1177
+Overfull \hbox (3.2579pt too wide) in paragraph at lines 695--698
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Isocrates’ \EU1/LinuxLibertineO(0)/m/it/10.
 95 Antidosis\EU1/LinuxLibertineO(0)/m/n/10.95 , a commentary, Too, YL., New Yor
 k:
@@ -2843,29 +2408,29 @@ k:
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [186]
-Overfull \hbox (5.82628pt too wide) in paragraph at lines 1190--1192
+ [140]
+Overfull \hbox (5.82628pt too wide) in paragraph at lines 711--713
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Omero. \EU1/LinuxLibertineO(0)/m/it/10.95 O
 dissea\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Onesti, RC.,Torino: Einaudi, 19
 89. 
  []
 
 
-Overfull \hbox (3.46954pt too wide) in paragraph at lines 1192--1194
+Overfull \hbox (3.46954pt too wide) in paragraph at lines 713--715
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Pausanias. \EU1/LinuxLibertineO(0)/m/it/10.
 95 Description of Greece\EU1/LinuxLibertineO(0)/m/n/10.95 , Leipzig: Teubner, 1
 967. 
  []
 
 
-Overfull \hbox (5.3274pt too wide) in paragraph at lines 1199--1202
+Overfull \hbox (5.3274pt too wide) in paragraph at lines 720--723
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Platão. \EU1/LinuxLibertineO(0)/m/it/10.95 
 Apologia de Sócrates, Eutifron, Críton, \EU1/LinuxLibertineO(0)/m/n/10.95 trad\
 EU1/LinuxLibertineO(0)/m/it/10.95 . \EU1/LinuxLibertineO(0)/m/n/10.95 Malta,
  []
 
 
-Overfull \hbox (1.7164pt too wide) in paragraph at lines 1214--1217
+Overfull \hbox (1.7164pt too wide) in paragraph at lines 735--738
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Platão. \EU1/LinuxLibertineO(0)/m/it/10.95 
 Parmênides\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Iglésias, M& Rodrigues, FSã
 o
@@ -2874,41 +2439,41 @@ o
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [187]
-Overfull \hbox (0.36339pt too wide) in paragraph at lines 1238--1241
+ [141]
+Overfull \hbox (0.36339pt too wide) in paragraph at lines 759--762
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Plotino. \EU1/LinuxLibertineO(0)/m/it/10.95
  Sobre o Belo \EU1/LinuxLibertineO(0)/m/n/10.95 In \EU1/LinuxLibertineO(0)/m/it
 /10.95 Tratados das Enéadas\EU1/LinuxLibertineO(0)/m/n/10.95 , trad. Som-
  []
 
 
-Overfull \hbox (20.10147pt too wide) in paragraph at lines 1247--1249
+Overfull \hbox (20.10147pt too wide) in paragraph at lines 768--770
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Strabo. \EU1/LinuxLibertineO(0)/m/it/10.95 
 Geography\EU1/LinuxLibertineO(0)/m/n/10.95 , Volume V: Books 10–12, trad. HLJon
 es,
  []
 
 
-Overfull \hbox (4.25066pt too wide) in paragraph at lines 1265--1268
+Overfull \hbox (4.25066pt too wide) in paragraph at lines 786--789
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Arnaoutoglou, I. \EU1/LinuxLibertineO(0)/m/
 it/10.95 Leis da Grécia Antiga\EU1/LinuxLibertineO(0)/m/n/10.95 , São Paulo: Od
 ys-
  []
 
-[188]
+[142]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [189]
+ [143]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [190]
-Overfull \hbox (3.87025pt too wide) in paragraph at lines 1376--1379
+ [144]
+Overfull \hbox (3.87025pt too wide) in paragraph at lines 897--900
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Ferrari, GRF. \EU1/LinuxLibertineO(0)/m/it/
 10.95 Listening to the Cicadas: A Study of Plato’s
  []
 
 
-Overfull \hbox (9.72565pt too wide) in paragraph at lines 1376--1379
+Overfull \hbox (9.72565pt too wide) in paragraph at lines 897--900
 \EU1/LinuxLibertineO(0)/m/it/10.95 Phaedrus\EU1/LinuxLibertineO(0)/m/n/10.95 , 
 Cambridge: Cambridge Classical Studies, 1990. 
  []
@@ -2916,34 +2481,34 @@ Cambridge: Cambridge Classical Studies, 1990.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [191]
+ [145]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [192]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [193]
-Overfull \hbox (2.91838pt too wide) in paragraph at lines 1482--1485
+ [146]
+Overfull \hbox (2.91838pt too wide) in paragraph at lines 1003--1006
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Mossé, C. \EU1/LinuxLibertineO(0)/m/it/10.9
 5 Histoire d’une démocratie: Athènes\EU1/LinuxLibertineO(0)/m/n/10.95 , Paris: 
 Edi-
  []
 
 
-Overfull \hbox (3.19945pt too wide) in paragraph at lines 1488--1491
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [147]
+Overfull \hbox (3.19945pt too wide) in paragraph at lines 1009--1012
 \EU1/LinuxLibertineO(0)/m/it/10.95 the construct of philosophy\EU1/LinuxLiberti
 neO(0)/m/n/10.95 , Cambridge University Press,
  []
 
 
-Overfull \hbox (6.16693pt too wide) in paragraph at lines 1495--1498
+Overfull \hbox (6.16693pt too wide) in paragraph at lines 1016--1019
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Pradeau J-F& Brisson, L. \EU1/LinuxLibertin
 eO(0)/m/it/10.95 Dictionnaire Platon\EU1/LinuxLibertineO(0)/m/n/10.95 , Paris: 
 Elip-
  []
 
 
-Overfull \hbox (17.90536pt too wide) in paragraph at lines 1515--1519
+Overfull \hbox (17.90536pt too wide) in paragraph at lines 1036--1040
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Robinson, TM. \EU1/LinuxLibertineO(0)/m/it/
 10.95 The argument for immortality in Plato’s Pha-
  []
@@ -2951,8 +2516,8 @@ Overfull \hbox (17.90536pt too wide) in paragraph at lines 1515--1519
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [194]
-Overfull \hbox (10.80151pt too wide) in paragraph at lines 1555--1558
+ [148]
+Overfull \hbox (10.80151pt too wide) in paragraph at lines 1076--1079
 []\EU1/LinuxLibertineO(0)/m/n/10.95 Urbina, JM P. \EU1/LinuxLibertineO(0)/m/it/
 10.95 Diccionario bilingüe manual Griego clássico-
  []
@@ -2960,12 +2525,12 @@ Overfull \hbox (10.80151pt too wide) in paragraph at lines 1555--1558
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [195]))
-[196] 
+ [149]))
+[150] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/hipatia/texmf/tex/PUBLICIDADE.tex [197
+(/home/hipatia/texmf/tex/PUBLICIDADE.tex [151
 
 
 
@@ -2974,17 +2539,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[198]
+[152]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [199]
+ [153]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [200]
-[201]) [202
+ [154]
+[155]) [156
 
 
 ]
@@ -2993,12 +2558,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 25272 strings out of 493727
- 467707 string characters out of 6147891
+ 25266 strings out of 493727
+ 467312 string characters out of 6147891
  685218 words of memory out of 5000000
- 28126 multiletter control sequences out of 15000+600000
- 16241 words of font info for 91 fonts, out of 8000000 for 9000
+ 28122 multiletter control sequences out of 15000+600000
+ 16168 words of font info for 89 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 64i,14n,64p,10356b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,14n,64p,10356b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.pdf (202 pages).
+Output written on LIVRO.pdf (156 pages).
