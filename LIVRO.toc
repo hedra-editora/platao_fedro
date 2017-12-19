@@ -3,8 +3,8 @@
 \contentsline {chapter}{Introdução}{7}
 \contentsline {section}{Eros e Psique}{7}
 \contentsline {section}{Recitações e partes da alma}{14}
-\contentsline {subsection}{\textbf {Lísias} (230e6--234c5)}{16}
-\contentsline {subsection}{Sócrates 1 (237a7--241d)}{18}
+\contentsline {subsection}{\textbf {Lísias} (230e6-234c5)}{16}
+\contentsline {subsection}{Sócrates 1 (237a7-241d)}{18}
 \contentsline {subsection}{Sócrates 2 (243e-257b6)}{19}
 \contentsline {part}{Fedro}{23}
 \contentsline {chapter}{}{25}
