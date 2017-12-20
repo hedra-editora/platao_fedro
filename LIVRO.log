@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  20 DEC 2017 15:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  20 DEC 2017 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1626,8 +1626,6 @@ Overfull \vbox (19.26228pt too high) has occurred while \output is active []
 [13] [14] [15] [16]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
-Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
  [17] [18] [19] [20]
 Underfull \hbox (badness 1137) in paragraph at lines 476--491
 \TU/LinuxLibertineO(0)/m/n/10.95 fortemente ligado aos impulsos mais violentos,
@@ -1733,88 +1731,112 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165])
 (./POSFACIO904.tex [166] [167
 
-] [168] [169] [170] [171] [172] [173] [174]
+] [168]
+Overfull \vbox (18.136pt too high) has occurred while \output is active []
+
+
+[169]
+Overfull \vbox (14.35977pt too high) has occurred while \output is active []
+
+
+[170] [171] [172]
+Overfull \vbox (8.26225pt too high) has occurred while \output is active []
+
+
+[173] [174]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+ [175] [176]
+Overfull \vbox (16.45732pt too high) has occurred while \output is active []
 
-[175] [176] [177] [178]
-Underfull \hbox (badness 3471) in paragraph at lines 369--377
+
+[177]
+Overfull \vbox (2.45726pt too high) has occurred while \output is active []
+
+
+[178]
+Underfull \hbox (badness 3471) in paragraph at lines 386--394
 []\TU/LinuxLibertineO(0)/m/n/10.95 A mimese, um procedimento vital da cultura
  []
 
-[179] [180] [181] [182] [183]
+[179] [180] [181] [182]
+Overfull \vbox (8.30605pt too high) has occurred while \output is active []
+
+
+[183] [184]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [184] [185] [186]
-Underfull \hbox (badness 1436) in paragraph at lines 654--657
+ [185] [186] [187]
+Underfull \hbox (badness 1436) in paragraph at lines 673--676
 []\TU/LinuxLibertineO(0)/m/n/10.95 Euripides. \TU/LinuxLibertineO(0)/m/it/10.95
  Hipólito\TU/LinuxLibertineO(0)/m/n/10.95 , trad. Miralles, C., Barcelona:
  []
 
-[187]
-Overfull \hbox (4.96967pt too wide) in paragraph at lines 670--673
+
+Overfull \hbox (4.96967pt too wide) in paragraph at lines 689--692
 []\TU/LinuxLibertineO(0)/m/n/10.95 Hermógenes. \TU/LinuxLibertineO(0)/m/it/10.9
 5 Commentarium in Hermogenis librum \TU/LinuxLibertineO(0)/m/n/10.95 perì
  []
 
-
-Underfull \hbox (badness 1360) in paragraph at lines 681--684
+[188]
+Underfull \hbox (badness 1360) in paragraph at lines 700--703
 []\TU/LinuxLibertineO(0)/m/n/10.95 Hipócrates. \TU/LinuxLibertineO(0)/m/it/10.9
 5 Aforismos\TU/LinuxLibertineO(0)/m/n/10.95 , trad. JMde Rezende, São
  []
 
-[188]
-Overfull \hbox (5.3274pt too wide) in paragraph at lines 727--730
+[189]
+Overfull \hbox (5.3274pt too wide) in paragraph at lines 746--749
 []\TU/LinuxLibertineO(0)/m/n/10.95 Platão. \TU/LinuxLibertineO(0)/m/it/10.95 Ap
 ologia de Sócrates, Eutifron, Críton, \TU/LinuxLibertineO(0)/m/n/10.95 trad\TU/
 LinuxLibertineO(0)/m/it/10.95 . \TU/LinuxLibertineO(0)/m/n/10.95 Malta,
  []
 
-[189]
-Overfull \hbox (0.36339pt too wide) in paragraph at lines 766--769
+[190]
+Overfull \hbox (0.36339pt too wide) in paragraph at lines 785--788
 []\TU/LinuxLibertineO(0)/m/n/10.95 Plotino. \TU/LinuxLibertineO(0)/m/it/10.95 S
 obre o Belo \TU/LinuxLibertineO(0)/m/n/10.95 In \TU/LinuxLibertineO(0)/m/it/10.
 95 Tratados das Enéadas\TU/LinuxLibertineO(0)/m/n/10.95 , trad. Som-
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 775--777
+Underfull \hbox (badness 1635) in paragraph at lines 794--796
 []\TU/LinuxLibertineO(0)/m/n/10.95 Strabo. \TU/LinuxLibertineO(0)/m/it/10.95 Ge
 ography\TU/LinuxLibertineO(0)/m/n/10.95 , Volume V: Books 10–12, trad.
  []
 
-[190] [191] [192] [193] [194] [195]
-Underfull \hbox (badness 1163) in paragraph at lines 1016--1019
+[191] [192] [193] [194] [195] [196]
+Underfull \hbox (badness 1163) in paragraph at lines 1035--1038
 []\TU/LinuxLibertineO(0)/m/n/10.95 Nightingale, Andrea W. \TU/LinuxLibertineO(0
 )/m/it/10.95 Genres in dialogue: Plato
  []
 
-[196]
-Underfull \hbox (badness 3417) in paragraph at lines 1043--1047
+[197]
+Underfull \hbox (badness 3417) in paragraph at lines 1062--1066
 []\TU/LinuxLibertineO(0)/m/n/10.95 Robinson, TM. \TU/LinuxLibertineO(0)/m/it/10
 .95 The argument for immortality in
  []
 
-[197]
-Underfull \hbox (badness 1270) in paragraph at lines 1083--1086
+[198]
+Underfull \hbox (badness 1270) in paragraph at lines 1102--1105
 []\TU/LinuxLibertineO(0)/m/n/10.95 Urbina, JM P. \TU/LinuxLibertineO(0)/m/it/10
 .95 Diccionario bilingüe manual Griego
  []
 
-)) [198] 
+)) [199] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/tex/PUBLICIDADE.tex [199
-
-
-
-]
+(/home/editorial/texmf/tex/tex/PUBLICIDADE.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[200] [201]
+[200
+
+
+
+
+] [201]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [202] [203]) [204
@@ -1826,11 +1848,11 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26169 strings out of 492998
- 480296 string characters out of 6139960
+ 26166 strings out of 492998
+ 480104 string characters out of 6139960
  721965 words of memory out of 5000000
- 29660 multiletter control sequences out of 15000+600000
- 544665 words of font info for 107 fonts, out of 8000000 for 9000
+ 29658 multiletter control sequences out of 15000+600000
+ 544657 words of font info for 106 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  54i,14n,88p,10345b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
 
