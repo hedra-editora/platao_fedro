@@ -2,19 +2,20 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Introdução}{7}
 \contentsline {section}{Eros e Psique}{7}
-\contentsline {section}{Recitações e partes da alma}{14}
-\contentsline {subsection}{\textbf {Lísias} (230e6-234c5)}{16}
+\contentsline {section}{Recitações e partes da alma}{15}
+\contentsline {subsection}{\textbf {Lísias} (230e6-234c5)}{17}
 \contentsline {subsection}{Sócrates 1 (237a7-241d)}{18}
-\contentsline {subsection}{Sócrates 2 (243e-257b6)}{19}
+\contentsline {subsection}{Sócrates 2 (243e-257b6)}{20}
 \contentsline {part}{Fedro}{23}
-\contentsline {chapter}{}{25}
-\contentsline {chapter}{Posfácio}{119}
-\contentsline {section}{Heath, Rowe e Kastely}{121}
-\contentsline {section}{A tríade de Estesícoro no~\emph {Fedro}}{127}
-\contentsline {section}{Lísias e Isócrates -- dois mudos no tribunal de Platão}{132}
-\contentsline {section}{Edições e traduções}{135}
-\contentsline {section}{Bibliografia}{136}
-\contentsline {subsection}{Edições, traduções e comentários específicos dedicados ao~\emph {Fedro}:}{136}
-\contentsline {subsubsection}{Autores antigos:}{138}
-\contentsline {subsection}{Bibliografia Geral:}{142}
+\contentsline {section}{Personagens: Sócrates e Fedro}{25}
+\contentsline {chapter}{Notas}{121}
+\contentsline {chapter}{Posfácio}{167}
+\contentsline {section}{Heath, Rowe e Kastely}{169}
+\contentsline {section}{A tríade de Estesícoro no~\emph {Fedro}}{175}
+\contentsline {section}{Lísias e Isócrates -- dois mudos no tribunal de Platão}{180}
+\contentsline {section}{Edições e traduções}{183}
+\contentsline {section}{Bibliografia}{185}
+\contentsline {subsection}{Edições, traduções e comentários específicos dedicados ao~\emph {Fedro}:}{185}
+\contentsline {subsubsection}{Autores antigos:}{186}
+\contentsline {subsection}{Bibliografia Geral:}{191}
 \contentsfinish 
