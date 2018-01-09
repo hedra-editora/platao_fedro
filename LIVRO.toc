@@ -7,15 +7,15 @@
 \contentsline {subsection}{Sócrates 1 (237a7-241d)}{18}
 \contentsline {subsection}{Sócrates 2 (243e-257b6)}{20}
 \contentsline {part}{Fedro}{23}
-\contentsline {section}{Personagens: Sócrates e Fedro}{25}
-\contentsline {chapter}{Notas}{121}
-\contentsline {chapter}{Posfácio}{167}
-\contentsline {section}{Heath, Rowe e Kastely}{169}
-\contentsline {section}{A tríade de Estesícoro no~\emph {Fedro}}{175}
-\contentsline {section}{Lísias e Isócrates -- dois mudos no tribunal de Platão}{181}
-\contentsline {section}{Edições e traduções}{184}
-\contentsline {section}{Bibliografia}{185}
-\contentsline {subsection}{Edições, traduções e comentários específicos dedicados ao~\emph {Fedro}:}{185}
-\contentsline {subsubsection}{Autores antigos:}{187}
-\contentsline {subsection}{Bibliografia Geral:}{191}
+\contentsline {section}{Do amor físico e teológico}{25}
+\contentsline {section}{Heath, Rowe e Kastely}{27}
+\contentsline {section}{A tríade de Estesícoro no~\emph {Fedro}}{33}
+\contentsline {section}{Lísias e Isócrates -- dois mudos no tribunal de Platão}{38}
+\contentsline {section}{Edições e traduções}{41}
+\contentsline {section}{Bibliografia}{43}
+\contentsline {subsection}{Edições, traduções e comentários específicos dedicados ao~\emph {Fedro}:}{43}
+\contentsline {subsubsection}{Autores antigos:}{44}
+\contentsline {subsection}{Bibliografia Geral:}{48}
+\contentsline {section}{Personagens: Sócrates e Fedro}{55}
+\contentsline {chapter}{Notas}{151}
 \contentsfinish 
